@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityaanilgupta&label=Profile%20views&color=0e75b6&style=flat" alt="adityaanilgupta" /> </p>
 
-🌱 I’m continuously learning Python, SQL and Analytics</p>
+🌱 I’m continuously learning more about <b>Python, SQL and Analytics</b></p>
 
 💬 Let us talk about Data Analytics, Python, SQL, Excel, Dashboards</p>
 
