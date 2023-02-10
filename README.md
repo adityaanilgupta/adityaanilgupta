@@ -16,6 +16,7 @@
 
 📫 You can reach me at adisept25@gmail.com</p>
 <b>I am upskilling myself in</b> <i> Python, SQL, Advance Excel, Power BI, Analytics</i></p>
+<p><b>My resume </b>- https://drive.google.com/file/d/1SdISUqpWWIX3GZ40TdLXWz_G7hxA9bTF/view?usp=share_link</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
